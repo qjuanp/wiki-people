@@ -1,6 +1,6 @@
 # Project Ignores
 **/input/*
-
+*.orig
 
 # General Java ignore
 *.class
